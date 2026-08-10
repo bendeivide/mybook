@@ -1,0 +1,40 @@
+project:
+  type: book
+  output-dir: "docs"
+
+bibliography: bibliografia.bib
+csl: associacao-brasileira-de-normas-tecnicas-ipea.csl
+lang: pt-BR
+book:
+  title: "Meu livro"
+  author: "Ben Dêivide"
+  cover-image: hardcover.png
+  favicon: hardcover.png
+  date: today
+  page-footer: 
+    left: |
+      Este livro foi desenvolvido por [Ben Dêivide](https://bendeivide.github.io/).
+    right: |
+      Este livro foi desenvolvido pelo [Quarto](https://quarto.org/).
+  chapters:
+    - index.qmd
+    - part: "Parte I"
+    - cap01.qmd
+    - cap02.qmd
+    - part: "Parte II"
+    - cap03.qmd
+    - cap04.qmd
+    - references.qmd
+
+crossref:
+  lst-title: Código R
+  lst-prefix: Código R
+
+
+format:
+  html:
+    theme: simplex
+
+
+
+

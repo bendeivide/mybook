@@ -1,0 +1,61 @@
+# Capítulo 04  - Título
+
+<!-- ## Paineis de figuras -->
+
+<!-- ::: {layout-ncol=2 layout-align="left"} -->
+<!-- ![Surus](surus.png) -->
+
+<!-- ![Hanno](hanno.png) -->
+
+<!-- ![Abdul Abbas](abdul-abbas.png) -->
+
+<!-- ![Lin Wang](lin-wang.png) -->
+<!-- ::: -->
+
+<!-- ## Subfiguras -->
+
+<!-- De acordo com a @fig-elephants, mais especificamente, a @fig-surus -->
+
+<!-- ::: {#fig-elephants layout-ncol=2} -->
+
+<!-- ![Surus](surus.png){#fig-surus} -->
+
+<!-- ![Hanno](hanno.png){#fig-hanno} -->
+
+<!-- Famous Elephants -->
+<!-- ::: -->
+
+
+# Referenciando uma imagem
+
+De acordo com a @fig-hanno...
+
+![Hanno.](hanno.png){#fig-hanno}
+
+
+# Referenciando uma imagem de código
+
+De acordo com a @fig-grafico...
+
+```{r}
+#| label: fig-grafico
+#| echo: false
+#| fig-cap: Texto do gráfico
+
+# Exemplo de grafico
+plot(1:10)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+

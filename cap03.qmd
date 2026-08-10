@@ -1,0 +1,25 @@
+# Capítulo 03  - Título
+
+## Inserindo gráficos (imagens)
+
+Texto exemplo.....
+
+```{r}
+#| echo: false
+#| fig-align: right
+#| fig-cap: "Texto do gráfico."
+plot(1:10)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+

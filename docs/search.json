@@ -1,0 +1,92 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Meu livro",
+    "section": "",
+    "text": "Prefácio\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "Prefácio"
+    ]
+  },
+  {
+    "objectID": "cap01.html",
+    "href": "cap01.html",
+    "title": "1  Capítulo 01 - Título",
+    "section": "",
+    "text": "1.1 Expressões matemáticas em destaque e numeradas\nEm notação, assumimos a média aritmética expressa em (1.1).\n\\[\n\\bar{X} = \\sum_{i = 1}^{n}X_i / n.\n\\tag{1.1}\\]\nSegundo Batista e Oliveira (2022) …\nTexto ….. (Batista e Oliveira, 2022).",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Capítulo 01 - Título</span>"
+    ]
+  },
+  {
+    "objectID": "cap01.html#expressões-matemáticas-em-destaque-e-numeradas",
+    "href": "cap01.html#expressões-matemáticas-em-destaque-e-numeradas",
+    "title": "1  Capítulo 01 - Título",
+    "section": "",
+    "text": "BATISTA, B. D. O.; OLIVEIRA, D. A. B. J. R básico. Ouro Branco, MG: [s.n.], 2022. v. 1p. 321",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Capítulo 01 - Título</span>"
+    ]
+  },
+  {
+    "objectID": "cap02.html",
+    "href": "cap02.html",
+    "title": "2  Capítulo 02 - Título",
+    "section": "",
+    "text": "2.1 Seção 01",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Capítulo 02  - Título</span>"
+    ]
+  },
+  {
+    "objectID": "cap02.html#seção-01",
+    "href": "cap02.html#seção-01",
+    "title": "2  Capítulo 02 - Título",
+    "section": "",
+    "text": "2.1.1 Subseção 01",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Capítulo 02  - Título</span>"
+    ]
+  },
+  {
+    "objectID": "cap02.html#inserção-de-uma-imagem",
+    "href": "cap02.html#inserção-de-uma-imagem",
+    "title": "2  Capítulo 02 - Título",
+    "section": "2.2 Inserção de uma imagem",
+    "text": "2.2 Inserção de uma imagem\n\n\n\n\nCapa do livro Fundamentos de Cálculo",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Capítulo 02  - Título</span>"
+    ]
+  },
+  {
+    "objectID": "cap03.html",
+    "href": "cap03.html",
+    "title": "3  Capítulo 03 - Título",
+    "section": "",
+    "text": "3.1 Inserindo gráficos (imagens)\nTexto exemplo…..\nTexto do gráfico.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Capítulo 03  - Título</span>"
+    ]
+  },
+  {
+    "objectID": "cap04.html",
+    "href": "cap04.html",
+    "title": "4  Capítulo 04 - Título",
+    "section": "",
+    "text": "5 Referenciando uma imagem\nDe acordo com a Figura 5.1…\n\n\n\n\n\n\nFigura 5.1: Hanno.\n\n\n\n\n\n6 Referenciando uma imagem de código\nDe acordo com a Figura 6.1…\n\n\n\n\n\n\n\n\nFigura 6.1: Texto do gráfico",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Capítulo 04  - Título</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "Referências",
+    "section": "",
+    "text": "BATISTA, B. D. O.; OLIVEIRA, D. A. B. J. R básico. Ouro\nBranco, MG: [s.n.], 2022. v. 1p. 321",
+    "crumbs": [
+      "Referências"
+    ]
+  }
+]

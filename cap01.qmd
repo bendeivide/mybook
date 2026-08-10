@@ -1,0 +1,17 @@
+# Capítulo 01 - Título {#sec-cap01}
+
+## Expressões matemáticas em destaque e numeradas
+
+
+Em notação, assumimos a média aritmética expressa em ([-@eq-media]). 
+
+$$
+\bar{X} = \sum_{i = 1}^{n}X_i / n.
+$$ {#eq-media} 
+
+
+Segundo @batista2022rbásico ...
+
+Texto ..... [@batista2022rbásico].
+
+
